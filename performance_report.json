@@ -1,0 +1,28 @@
+{
+  "overall_accuracy": 0.9996287588169781,
+  "f1_score": 0.9996287588169781,
+  "eer": 0.0,
+  "per_class_accuracy": {
+    "Genuine": 0.9992577931716972,
+    "Deepfake": 1.0
+  },
+  "confusion_matrix": [
+    [
+      4039,
+      3
+    ],
+    [
+      0,
+      4039
+    ]
+  ],
+  "config": {
+    "sample_rate": 16000,
+    "duration_sec": 4,
+    "n_mels": 128,
+    "n_fft": 1024,
+    "hop_length": 512,
+    "normalization_mean": -61.501808166503906,
+    "normalization_std": 19.617700576782227
+  }
+}
