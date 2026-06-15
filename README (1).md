@@ -1,4 +1,5 @@
 # 🎙️ Deepfake Audio Detection
+Streamlit App: https://527chandaneond-cell-deepfake-audiodetection-app-7pbmig.streamlit.app/
 
 A deep learning system that classifies speech recordings as **Genuine (Human)** or **Deepfake (AI-Generated)**, built on a CNN trained over log-mel spectrograms — with a Streamlit web app for interactive inference.
 
